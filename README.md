@@ -67,7 +67,7 @@
 ## Структура проекта
 
 ```
-coperto-restaurant-forecast/
+Restaurant-visitors-forecast/
 ├── data/
 │   ├── raw/              # air_visit_data.csv, date_info.csv (скачать с Kaggle)
 │   └── processed/        # df_clean.csv после фильтрации
@@ -179,7 +179,7 @@ MAPE ≈ 67% хотя в абсолюте ошибка мизерная. По э
 
 ```bash
 git clone <repo-url>
-cd coperto-restaurant-forecast
+cd Restaurant-visitors-forecast
 python -m venv venv
 venv\Scripts\activate        # Windows
 # source venv/bin/activate   # Linux/macOS
