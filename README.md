@@ -1,8 +1,7 @@
-# Прогноз потока гостей ресторанов. Тестовое задание Coperto
+# Прогноз потока гостей ресторанов
 
-Прогноз дневного числа гостей на 7 дней вперёд по историческим данным
-ресторанов. Задача тестовое задание Junior Data Scientist
-
+Прогноз дневного числа гостей на 7 дней вперёд по историческим данным ресторанов.
+Тестовое задание для позиции Junior Data Scientist.
 ## Данные
 
 Источник: [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) (Kaggle).
