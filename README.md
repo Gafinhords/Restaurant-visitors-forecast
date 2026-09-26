@@ -178,7 +178,7 @@ MAPE ≈ 67% хотя в абсолюте ошибка мизерная. По э
 ## Запуск
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Gafinhords/Restaurant-visitors-forecast.git
 cd Restaurant-visitors-forecast
 python -m venv venv
 venv\Scripts\activate        # Windows
